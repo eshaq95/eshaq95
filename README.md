@@ -10,9 +10,8 @@
 - ⚡ Fun fact: I love fitness and football.
 
 ### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://eshaq95.github.io/Portfolio/" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/eshaq-rahmani-495043197/" />][linkedin]
+[<img align="left" alt="Portfolio" width="22px" src="https://eshaq95.github.io/Portfolio" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
