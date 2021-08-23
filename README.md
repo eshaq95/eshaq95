@@ -13,11 +13,13 @@
 [<img align="left" alt="Portof" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
 [![alt text][2.1]][2]
 [2]: http://www.facebook.com/isak.rahmani
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
