@@ -1,18 +1,17 @@
 ### Hi there, I'm Eshaq! 👋
 
-[![Website](https://eshaq95.github.io/Portfolio/)]
 
-## I'm a Student with an aspiration of becoming as Software Engineer!
+
+## I'm a Student and a future Software Engineer!
 
 - 🌱 I’m currently learning Java, Python and Software engineering practices🔭
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love fitness and football.
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://eshaq95.github.io/Portfolio/" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.facebook.com/isak.rahmani/" />][facebook]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/eshaq-rahmani-495043197/" />][linkedin]
 
 <br />
