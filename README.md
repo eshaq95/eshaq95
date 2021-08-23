@@ -15,9 +15,11 @@
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+
+[2]: http://www.facebook.com/isak.rahmani
 [2.1]: http://i.imgur.com/P3YfQoD.png
 [![alt text][2.1]][2]
-[2]: http://www.facebook.com/isak.rahmani
+
 
 
 
