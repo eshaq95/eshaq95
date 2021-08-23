@@ -10,8 +10,10 @@
 - ⚡ Fun fact: I love fitness and football.
 
 <br/>
+
 ### Connect with me:
 <br/>
+
 [<img align="left" alt="Portof" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [<img align="left" alt="Portof" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
