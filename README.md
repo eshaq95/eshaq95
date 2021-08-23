@@ -47,16 +47,18 @@
 
 ### Projects and course certificates:
 
-[<img align="center" alt="GitHub" width="60px" src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" />][Rsbot] [Runescape_bot](https://github.com/eshaq95/RsBot)
+[<img align="center" alt="GitHub" width="60px" src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" />][Rsbot] [Python Runescape_bot](https://github.com/eshaq95/RsBot)
 <br/>
 
-[<img align="center" alt="GitHub" width="60px" src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" />][Rsbot] [Runescape_bot](https://github.com/eshaq95/RsBot)
+[<img align="center" alt="GitHub" width="60px" src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" />][Portfolio] [Portfolio_Webpage](https://github.com/eshaq95/Portfolio)
 <br/>
 
-[<img align="center" alt="GitHub" width="60px" src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" />][Rsbot] [Runescape_bot](https://github.com/eshaq95/RsBot)
+[<img align="center" alt="GitHub" width="60px" src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" />][C++ Particle_Explosion_Program] [C++ Particle_Explosion](https://github.com/eshaq95/Particle_explosion_Project)
 <br/>
 
-[<img align="center" alt="GitHub" width="60px" src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" />][Rsbot] [Runescape_bot](https://github.com/eshaq95/RsBot)
+[<img align="center" alt="GitHub" width="60px" src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" />][MOOCs] [MOOCs certificates](https://github.com/eshaq95/MOOC-certificates)
+
+[<img align="center" alt="GitHub" width="60px" src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" />][MATLAB_Project] [MATLAB-Turbine_Blade_Optimization](https://github.com/eshaq95/MATLAB-Turbine_Blade_Optimization)
 
 
 
