@@ -48,7 +48,7 @@
 
 ### Projects and course certificates:
 
-<img align="left" alt="GitHub" width="50px" src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" />
+[<img align="left" alt="GitHub" width="50px" src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" />] [Rsbot]
 
 
 
@@ -57,5 +57,6 @@
 [course]: http://vsCodeHero.com
 [youtube]: https://youtube.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/eshaq-rahmani-495043197/
+[Rsbot]: https://github.com/eshaq95/RsBot
 
 
