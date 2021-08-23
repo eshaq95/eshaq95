@@ -36,8 +36,8 @@
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="GitHub" width="100px" src="https://raw.githubusercontent.com/numpy/numpy/158159d43a988ff418df5aee3c8b3ecfcb1d0986/branding/logo/primary/numpylogo.svg" />
-<img align="left" alt="GitHub" width="50px" src="https://github.com/scikit-learn/scikit-learn/raw/main/doc/logos/scikit-learn-logo.png" />
-<img align="left" alt="GitHub" width="50px" src="https://camo.githubusercontent.com/981d48e57e23a4907cebc4eb481799b5882595ea978261f22a3e131dcd6ebee6/68747470733a2f2f70616e6461732e7079646174612e6f72672f7374617469632f696d672f70616e6461732e737667" />
+<img align="left" alt="GitHub" width="100px" src="https://github.com/scikit-learn/scikit-learn/raw/main/doc/logos/scikit-learn-logo.png" />
+<img align="left" alt="GitHub" width="100px" src="https://camo.githubusercontent.com/981d48e57e23a4907cebc4eb481799b5882595ea978261f22a3e131dcd6ebee6/68747470733a2f2f70616e6461732e7079646174612e6f72672f7374617469632f696d672f70616e6461732e737667" />
 
 
 
