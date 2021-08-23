@@ -68,5 +68,11 @@
 [youtube]: https://youtube.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/eshaq-rahmani-495043197/
 [Rsbot]: https://github.com/eshaq95/RsBot
+[Portfolio]: https://github.com/eshaq95/Portfolio
+[C++ Particle_Explosion_Program]: https://github.com/eshaq95/Particle_explosion_Project
+[MOOCs]: https://github.com/eshaq95/MOOC-certificates
+[MATLAB_Project]: https://github.com/eshaq95/MATLAB-Turbine_Blade_Optimization
+
+
 
 
