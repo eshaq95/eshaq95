@@ -47,7 +47,7 @@
 
 ### Projects and course certificates:
 
-[<center><img align="left" alt="GitHub" width="40px" src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" /></center>][Rsbot] [<center>Runescape_bot</center>](https://github.com/eshaq95/RsBot)
+[<center><img align="left" alt="GitHub" width="40px" src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" /></center>][Rsbot] [<bottom>Runescape_bot</bottom>](https://github.com/eshaq95/RsBot)
 
 
 
