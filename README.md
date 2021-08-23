@@ -49,17 +49,15 @@
 
 [<img align="center" alt="GitHub" width="60px" src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" />][Rsbot] [Runescape_bot](https://github.com/eshaq95/RsBot)
 <br/>
+
+[<img align="center" alt="GitHub" width="60px" src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" />][Rsbot] [Runescape_bot](https://github.com/eshaq95/RsBot)
+
 <br/>
 
 [<img align="center" alt="GitHub" width="60px" src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" />][Rsbot] [Runescape_bot](https://github.com/eshaq95/RsBot)
 
 <br/>
-<br/>
 
-[<img align="center" alt="GitHub" width="60px" src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" />][Rsbot] [Runescape_bot](https://github.com/eshaq95/RsBot)
-
-<br/>
-<br/>
 
 [<img align="center" alt="GitHub" width="60px" src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" />][Rsbot] [Runescape_bot](https://github.com/eshaq95/RsBot)
 
