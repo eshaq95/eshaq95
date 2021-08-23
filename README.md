@@ -42,7 +42,7 @@
 
 <br />
 <br />
-<br/>
+
 
 
 ### Projects and course certificates:
