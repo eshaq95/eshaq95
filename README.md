@@ -2,7 +2,7 @@
 
 
 
-## I'm a Student and a future Software Engineer!
+## I'm a Student aspiring to become a Software Engineer!
 
 - 🌱 I’m currently learning Java, Python and Software engineering practices🔭
 - 👯 I’m looking to collaborate with other content creators
