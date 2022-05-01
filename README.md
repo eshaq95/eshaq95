@@ -1,12 +1,8 @@
-### Hi there, I'm Eshaq! 👋
+### Yo 👋
 
 
-
-## I'm a Student aspiring to become a data scientist!
-
-- 🌱 I’m currently learning Java, Python and Software engineering practices🔭
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 Currently learning Java, Python and Software engineering practices🔭
+- 👯 Looking to collaborate with other content creators
 - ⚡ Fun fact: I love fitness and football.
 
 
