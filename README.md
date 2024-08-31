@@ -1,4 +1,4 @@
-### Yo 👋
+### 👋
 
 
 - 🌱 Currently learning Java, Python and Software engineering practices🔭
