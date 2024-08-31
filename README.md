@@ -1,11 +1,3 @@
-### 👋
-
-
-- 🌱 Currently learning Java, Python and Software engineering practices🔭
-- 👯 Looking to collaborate with other content creators
-- ⚡ Fun fact: I love fitness and football.
-
-
 ### Connect with me:
 
 [<img align="left" alt="Portof" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
