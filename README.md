@@ -2,8 +2,7 @@
 Data Science Graduate | MSc in Data Science and Analytics 
 
 ## About Me
-As a recent graduate with an MSc in Data Science and Analytics, I am passionate about applying my skills in both data science and software engineering. I combine strong analytical abilities with software development knowledge to create data-driven solutions and efficient applications. Eager to contribute to innovative projects and continue growing in these fields.
-
+As an MSc Data Science and Analytics graduate, I combine strong analytical and software development skills to create data-driven solutions and efficient applications. I am eager to contribute to innovative projects and grow in data science, finance, AI and software engineering.
 
 [<img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
