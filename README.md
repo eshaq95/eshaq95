@@ -1,5 +1,5 @@
 # Eshaq Rahmani
-Data Scientist | MSc in Data Science and Analytics (Cardiff University)
+Data Science Graduate | MSc in Data Science and Analytics (Cardiff University)
 
 ## About Me
 As a recent graduate with an MSc in Data Science and Analytics from Cardiff University, I am passionate about applying my skills in both data science and software engineering. I combine strong analytical abilities with software development knowledge to create data-driven solutions and efficient applications. Eager to contribute to innovative projects and continue growing in these fields.
