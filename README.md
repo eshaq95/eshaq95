@@ -42,7 +42,7 @@ As a recent graduate with an MSc in Data Science and Analytics, I am passionate 
 
 ### Data Science
 - [Tesla Stock Analysis & Prediction (Dissertation)](link-to-repo): Comparative study of technical analysis and machine learning (LSTM, SVM)
-- [Text Categorization](link-to-repo): Multi-class classification using BERT and ML models
+- [Text Categorization for 20 Newsgroups](link-to-repo): Multi-class classification using Multinomial Naive Bayes, LSTM, CNN, and BERT models
 - [Credit Risk Modeling](link-to-repo): Logistic regression for credit risk assessment
 - [Time Series Forecasting](link-to-repo): ARIMA and TBATS for demand prediction
 - [Python Object Detection](https://github.com/eshaq95/RsBot): Computer vision project
