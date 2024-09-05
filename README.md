@@ -41,7 +41,7 @@ As a recent graduate with an MSc in Data Science and Analytics, I am passionate 
 ## Featured Projects
 
 ### Data Science
-- [Tesla Stock Analysis & Prediction](link-to-repo): Comparative study of technical analysis and machine learning (LSTM, SVM)
+- [Tesla Stock Analysis & Prediction (Dissertation)](link-to-repo): Comparative study of technical analysis and machine learning (LSTM, SVM)
 - [Text Categorization](link-to-repo): Multi-class classification using BERT and ML models
 - [Credit Risk Modeling](link-to-repo): Logistic regression for credit risk assessment
 - [Time Series Forecasting](link-to-repo): ARIMA and TBATS for demand prediction
