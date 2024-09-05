@@ -43,12 +43,12 @@ I'm a versatile professional with expertise in both data science and software en
 - [Text Categorization](link-to-repo): Multi-class classification using BERT and ML models
 - [Credit Risk Modeling](link-to-repo): Logistic regression for credit risk assessment
 - [Time Series Forecasting](link-to-repo): ARIMA and TBATS for demand prediction
+- [Python Object Detection](https://github.com/eshaq95/RsBot): Computer vision project
 
 ### Software Engineering
 - [Online Bookstore Website](link-to-repo): Full-stack web application using Java, SQL, HTML/CSS
 - [Environmental Education Game](link-to-repo): Interactive web-based game using JavaScript and HTML5
 - [Online Movie Store](link-to-repo): RESTful API and front-end implementation with AJAX
-- [Python Object Detection](https://github.com/eshaq95/RsBot): Computer vision project
 - [C++ Particle Simulation](https://github.com/eshaq95/Particle_explosion_Project): Graphics programming
 
 ## Additional Resources
