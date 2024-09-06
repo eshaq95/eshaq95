@@ -40,7 +40,7 @@ As an MSc Data Science and Analytics graduate, I combine strong analytical and s
 ## Featured Projects
 
 ### Data Science
-- [Tesla Stock Analysis & Prediction (Dissertation)](link-to-repo): Large comparative study of technical analysis and machine learning (LSTM, SVM)
+- [Tesla Stock Analysis & Prediction (Dissertation)](https://github.com/eshaq95/Tesla-Stock-Prediction-Analysis): Large comparative study of technical analysis and machine learning (LSTM, SVM)
 - [Text Categorization for 20 Newsgroups](link-to-repo): Multi-class classification using Multinomial Naive Bayes, LSTM, CNN, and BERT models
 - [Credit Risk Scorecard Development](link-to-repo): Developed multiple scorecards using linear and logistic regression on German credit data
 - [Time Series Forecasting for Ambulance Service](link-to-repo): Developed multiple forecasting models in R to optimize crew scheduling
