@@ -40,10 +40,10 @@ As an MSc Data Science and Analytics graduate, I combine strong analytical and s
 ## Featured Projects
 
 ### Data Science
-- [Tesla Stock Analysis & Prediction (Dissertation)](link-to-repo): Comparative study of technical analysis and machine learning (LSTM, SVM)
+- [Tesla Stock Analysis & Prediction (Dissertation)](link-to-repo): Large comparative study of technical analysis and machine learning (LSTM, SVM) performance in stock prediction
 - [Text Categorization for 20 Newsgroups](link-to-repo): Multi-class classification using Multinomial Naive Bayes, LSTM, CNN, and BERT models
-- [Credit Risk Modeling](link-to-repo): Logistic regression for credit risk assessment
-- [Time Series Forecasting](link-to-repo): ARIMA and TBATS for demand prediction
+- [Credit Risk Scorecard Development](link-to-repo): Developed multiple scorecards using linear and logistic regression on German credit data
+- [Time Series Forecasting for Ambulance Service](link-to-repo): Developed multiple forecasting models (Naive, SES, Holt Linear, ARIMA, TBATS) in R to optimize crew scheduling
 - [Python Object Detection](https://github.com/eshaq95/RsBot): Computer vision project
 
 ### Software Engineering
