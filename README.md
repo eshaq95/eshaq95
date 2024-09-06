@@ -44,7 +44,7 @@ As an MSc Data Science and Analytics graduate, I combine strong analytical and s
 - [Text Categorization for 20 Newsgroups](link-to-repo): Multi-class classification using Multinomial Naive Bayes, LSTM, CNN, and BERT models
 - [Credit Risk Scorecard Development](link-to-repo): Developed multiple scorecards using linear and logistic regression on German credit data
 - [Time Series Forecasting for Ambulance Service](link-to-repo): Developed multiple forecasting models in R to optimize crew scheduling
-- [Python Object Detection](https://github.com/eshaq95/RsBot): Computer vision project
+- [Python Object Detection](https://github.com/eshaq95/RsBot): Automated Runescape mining bot using OpenCV and PyAutoGUI for real-time object detection and task automation
 
 ### Software Engineering
 - [Online Bookstore Website](link-to-repo): Full-stack web application using Java, SQL, HTML/CSS
