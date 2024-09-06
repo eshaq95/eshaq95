@@ -47,9 +47,9 @@ As an MSc Data Science and Analytics graduate, I combine strong analytical and s
 - [Python Object Detection](https://github.com/eshaq95/RsBot): Automated Runescape mining bot using OpenCV and PyAutoGUI for real-time object detection and task automation
 
 ### Software Engineering
-- [Online Bookstore Website](link-to-repo): Full-stack web application using Java, SQL, HTML/CSS
-- [Environmental Education Game](link-to-repo): Interactive web-based game using JavaScript and HTML5
-- [Online Movie Store](link-to-repo): RESTful API and front-end implementation with AJAX
+- [Online Bookstore Website](link-to-repo): Java-based full-stack e-commerce platform with SQL database and responsive HTML/CSS frontend
+- [Environmental Education Game](link-to-repo): Interactive JavaScript/HTML5 game teaching waste sorting with engaging UI and educational content
+- [Online Movie Store](link-to-repo): Full-stack movie purchasing platform with RESTful API, AJAX for dynamic content, and SQL database
 - [C++ Particle Fire Simulation](https://github.com/eshaq95/Particle_explosion_Project): Interactive particle system with SDL2 graphics
 
 ## Additional Resources
