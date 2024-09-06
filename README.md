@@ -50,7 +50,7 @@ As an MSc Data Science and Analytics graduate, I combine strong analytical and s
 - [Online Bookstore Website](link-to-repo): Full-stack web application using Java, SQL, HTML/CSS
 - [Environmental Education Game](link-to-repo): Interactive web-based game using JavaScript and HTML5
 - [Online Movie Store](link-to-repo): RESTful API and front-end implementation with AJAX
-- [C++ Particle Simulation](https://github.com/eshaq95/Particle_explosion_Project): Graphics programming
+- [C++ Particle Fire Simulation](https://github.com/eshaq95/Particle_explosion_Project): Interactive particle system with SDL2 graphics
 
 ## Additional Resources
 - [MATLAB Projects](https://github.com/eshaq95/MATLAB-projects)
