@@ -44,6 +44,7 @@ As an MSc Data Science and Analytics graduate, I combine strong analytical and s
 - [Credit Risk Scorecard Development](https://github.com/eshaq95/Credit-Risk-Scoring-Project): Developed multiple scorecards using linear and logistic regression on German credit data
 - [Time Series Forecasting for Ambulance Service](https://github.com/eshaq95/Time-Series-Forecasting-Ambulance-Service-Calls): Developed multiple forecasting models in R to optimize crew scheduling
 - [Text Categorization for 20 Newsgroups](https://github.com/eshaq95/Text-Categorization-NLP-Newsgrouping): Multi-class classification using Multinomial Naive Bayes, LSTM, CNN, and BERT models
+- [Car Insurance Prediction Project](https://github.com/eshaq95/Car-Insurance-Prediction-ML): Implemented and compared multiple ML models (XGBoost, Random Forest, KNN) to predict customer interest in car insurance and handled imbalanced data
 - [Python Object Detection](https://github.com/eshaq95/RunescapeCV-MiningAI): Automated Runescape mining bot using OpenCV and PyAutoGUI for real-time object detection and task automation
 
 ### Software Engineering
