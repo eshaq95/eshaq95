@@ -54,7 +54,7 @@ As an MSc Data Science and Analytics graduate, I combine strong analytical and s
 - [C++ Particle Fire Simulation](https://github.com/eshaq95/Particle_explosion_Project): Interactive particle system with SDL2 graphics
 
 ## Additional Resources
-- [MATLAB Projects](https://github.com/eshaq95/MATLAB-projects)
+- [MATLAB Projects](https://github.com/eshaq95/MATLAB-projects): Collection of MATLAB codes for engineering applications, including turbine blade optimization and numerical solutions for PDEs
 - [Machine Learning Projects](https://github.com/eshaq95/Machine_learning)
 - [MOOC Certificates](https://github.com/eshaq95/MOOC-certificates)
 
