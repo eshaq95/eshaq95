@@ -41,15 +41,15 @@ As an MSc Data Science and Analytics graduate, I combine strong analytical and s
 
 ### Data Science
 - [Tesla Stock Analysis & Prediction (Dissertation)](https://github.com/eshaq95/Tesla-Stock-Prediction-Analysis): Large comparative study of technical analysis and machine learning (LSTM, SVM)
-- [Text Categorization for 20 Newsgroups](link-to-repo): Multi-class classification using Multinomial Naive Bayes, LSTM, CNN, and BERT models
-- [Credit Risk Scorecard Development](link-to-repo): Developed multiple scorecards using linear and logistic regression on German credit data
-- [Time Series Forecasting for Ambulance Service](link-to-repo): Developed multiple forecasting models in R to optimize crew scheduling
-- [Python Object Detection](https://github.com/eshaq95/RsBot): Automated Runescape mining bot using OpenCV and PyAutoGUI for real-time object detection and task automation
+- [Text Categorization for 20 Newsgroups](https://github.com/eshaq95/Text-Categorization-NLP-Newsgrouping): Multi-class classification using Multinomial Naive Bayes, LSTM, CNN, and BERT models
+- [Credit Risk Scorecard Development](https://github.com/eshaq95/Credit-Risk-Scoring-Project): Developed multiple scorecards using linear and logistic regression on German credit data
+- [Time Series Forecasting for Ambulance Service](https://github.com/eshaq95/Time-Series-Forecasting-Ambulance-Service-Calls): Developed multiple forecasting models in R to optimize crew scheduling
+- [Python Object Detection](https://github.com/eshaq95/RunescapeCV-MiningAI): Automated Runescape mining bot using OpenCV and PyAutoGUI for real-time object detection and task automation
 
 ### Software Engineering
-- [Online Bookstore Website](link-to-repo): Java-based full-stack e-commerce platform with SQL database and responsive HTML/CSS frontend
-- [Environmental Education WebGame](link-to-repo): Developed a website with interactive JavaScript/HTML5  waste sorting game and educational content for teaching kids about sustainability 
-- [Online Movie Store](link-to-repo): Full-stack movie purchasing platform with RESTful API, AJAX for dynamic content, and SQL database
+- [Online Bookstore Website](https://github.com/eshaq95/Online-Book-Store): Java-based full-stack e-commerce platform with SQL database and responsive HTML/CSS frontend
+- [Environmental Education Website for Kids](https://github.com/eshaq95/GarbageSorting-WebGame): Website with interactive JavaScript/HTML5  waste sorting game and educational content for teaching kids about sustainability 
+- [Online Movie Store](https://github.com/eshaq95/Movie-store-restful-api): Full-stack movie purchasing platform with RESTful API, AJAX for dynamic content, and SQL database
 - [C++ Particle Fire Simulation](https://github.com/eshaq95/Particle_explosion_Project): Interactive particle system with SDL2 graphics
 
 ## Additional Resources
