@@ -41,9 +41,9 @@ As an MSc Data Science and Analytics graduate, I combine strong analytical and s
 
 ### Data Science
 - [Tesla Stock Analysis & Prediction (Dissertation)](https://github.com/eshaq95/Tesla-Stock-Prediction-Analysis): Large comparative study of technical analysis and machine learning (LSTM, SVM)
-- [Text Categorization for 20 Newsgroups](https://github.com/eshaq95/Text-Categorization-NLP-Newsgrouping): Multi-class classification using Multinomial Naive Bayes, LSTM, CNN, and BERT models
 - [Credit Risk Scorecard Development](https://github.com/eshaq95/Credit-Risk-Scoring-Project): Developed multiple scorecards using linear and logistic regression on German credit data
 - [Time Series Forecasting for Ambulance Service](https://github.com/eshaq95/Time-Series-Forecasting-Ambulance-Service-Calls): Developed multiple forecasting models in R to optimize crew scheduling
+- [Text Categorization for 20 Newsgroups](https://github.com/eshaq95/Text-Categorization-NLP-Newsgrouping): Multi-class classification using Multinomial Naive Bayes, LSTM, CNN, and BERT models
 - [Python Object Detection](https://github.com/eshaq95/RunescapeCV-MiningAI): Automated Runescape mining bot using OpenCV and PyAutoGUI for real-time object detection and task automation
 
 ### Software Engineering
