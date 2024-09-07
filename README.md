@@ -48,7 +48,7 @@ As an MSc Data Science and Analytics graduate, I combine strong analytical and s
 
 ### Software Engineering
 - [Online Bookstore Website](link-to-repo): Java-based full-stack e-commerce platform with SQL database and responsive HTML/CSS frontend
-- [Environmental Education Game](link-to-repo): Interactive JavaScript/HTML5 game teaching waste sorting with engaging UI and educational content
+- [Environmental Education WebGame](link-to-repo): Developed a website with interactive JavaScript/HTML5  waste sorting game and educational content for teaching kids about sustainability 
 - [Online Movie Store](link-to-repo): Full-stack movie purchasing platform with RESTful API, AJAX for dynamic content, and SQL database
 - [C++ Particle Fire Simulation](https://github.com/eshaq95/Particle_explosion_Project): Interactive particle system with SDL2 graphics
 
