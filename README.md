@@ -52,6 +52,7 @@ I'm eager to contribute to cutting-edge projects and grow in the fields of data 
 - [Python Object Detection](https://github.com/eshaq95/RunescapeCV-MiningAI): Automated Runescape mining bot using OpenCV and PyAutoGUI for real-time object detection and task automation
 
 ### Software Engineering
+- [AI Wealth Builder](https://github.com/eshaq95/ai-wealth-builder): Full-stack financial management platform built with Next.js 13, TypeScript, and FastAPI, featuring portfolio analytics, budget management, and transaction analysis with real-time data visualization
 - [Online Bookstore Website](https://github.com/eshaq95/Online-Book-Store): Java-based full-stack e-commerce platform with SQL database and responsive HTML/CSS frontend
 - [Environmental Education Website for Kids](https://github.com/eshaq95/GarbageSorting-WebGame): Website with interactive JavaScript/HTML5  waste sorting game and educational content for teaching kids about sustainability 
 - [Online Movie Store (Not yet uploaded)](https://github.com/eshaq95/Movie-store-restful-api): Full-stack movie purchasing platform with RESTful API, AJAX for dynamic content, and SQL database
