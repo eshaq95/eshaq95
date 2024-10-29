@@ -34,12 +34,9 @@ I'm eager to contribute to cutting-edge projects and grow in the fields of data 
 ### Key Areas
 - Machine Learning & Deep Learning
 - Statistical Analysis & Modeling
-- Natural Language Processing
-- Time Series Analysis
 - Full-Stack Web Development
 - Agile Software Development
 - Database Design & Management
-- RESTful API Development
 
 ## Featured Projects
 
