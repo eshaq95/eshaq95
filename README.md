@@ -23,15 +23,16 @@ I'm eager to contribute to cutting-edge projects and grow in the fields of data 
 - [Python Object Detection](https://github.com/eshaq95/RunescapeCV-MiningAI): Automated Runescape mining bot using OpenCV and PyAutoGUI for real-time object detection and task automation
 
 ### Software Engineering
-- [AI Wealth Builder (Experiment on Cursor)](https://github.com/eshaq95/ai-wealth-builder) is a full-stack financial management platform built with Next.js 13, TypeScript, and FastAPI. It features portfolio analytics, budget management, and transaction analysis with real-time data visualization. This has not been coded by me; it is an automated project using Cursor for learning how to use Cursor. The code is AI generated.
 - [Online Bookstore Website](https://github.com/eshaq95/Online-Book-Store): Java-based full-stack e-commerce platform with SQL database and responsive HTML/CSS frontend
 - [Environmental Education Website for Kids](https://github.com/eshaq95/GarbageSorting-WebGame): Website with interactive JavaScript/HTML5  waste sorting game and educational content for teaching kids about sustainability 
 - [Online Movie Store (Not yet uploaded)](https://github.com/eshaq95/Movie-store-restful-api): Full-stack movie purchasing platform with RESTful API, AJAX for dynamic content, and SQL database
 - [C++ Particle Fire Simulation](https://github.com/eshaq95/Particle_explosion_Project): Interactive particle system with SDL2 graphics
 
+
 ## Additional Resources
 - [MATLAB Projects](https://github.com/eshaq95/MATLAB-projects): Collection of MATLAB codes for engineering applications, including turbine blade optimization and numerical solutions for PDEs
 - [MOOC Certificates](https://github.com/eshaq95/MOOC-certificates): Repository of completed online course certificates
+- [AI Wealth Builder (Experiment on Cursor)](https://github.com/eshaq95/ai-wealth-builder) is a full-stack financial management platform built with Next.js 13, TypeScript, and FastAPI. It features portfolio analytics, budget management, and transaction analysis with real-time data visualization. This has not been coded by me; it is an automated project using Cursor for learning how to use Cursor. The code is AI generated.
 
 [website]: https://eshaq95.github.io/Portfolio/
 [linkedin]: https://www.linkedin.com/in/eshaq-rahmani-495043197/
