@@ -2,15 +2,13 @@
 Data Science Graduate | MSc in Data Science and Analytics 
 
 ## About Me
+MSc Data Science graduate from Cardiff University with strong analytical and software development capabilities. Passionate about:
+- 📊 Data Science & Analytics
+- 🤖 Machine Learning & AI
+- ☁️ Cloud Computing
+- 💡 Innovative Problem Solving
 
-As a Data Science graduate with a Master's degree from Cardiff University, I combine strong analytical and software development skills to create data-driven solutions and efficient applications. I'm passionate about:
-
-- 📊 **Data Science & Analytics**
-- 🤖 **Machine Learning & AI**
-- ☁️ **Cloud Computing**
-- 💡 **Innovative Problem Solving**
-
-I'm eager to contribute to cutting-edge projects and grow in the fields of data science, finance, AI, and software engineering.
+Seeking opportunities in data science, finance, AI, and software engineering.
 
 ## Featured Projects
 
