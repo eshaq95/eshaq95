@@ -70,6 +70,5 @@ I'm currently seeking opportunities where I can use data to drive insight and im
 
 ## 🌐 Connect with Me
 
-- 📄 [Portfolio Website](https://eshaq95.github.io/Portfolio/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/eshaq-rahmani-495043197/)
 - 📘 [Facebook](http://www.facebook.com/isak.rahmani)
