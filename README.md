@@ -1,37 +1,81 @@
-# Eshaq Rahmani
-Data Science Graduate | MSc in Data Science and Analytics 
+Great — this is a strong foundation. Now let's **tighten the messaging, focus on value**, and add a clearer **"who I help / what I solve"** framing to make the profile recruiter-friendly and impact-oriented.
 
-## About Me
-MSc Data Science graduate from Cardiff University with strong analytical and software development capabilities. Passionate about:
-- 📊 Data Science & Analytics
-- 🤖 Machine Learning & AI
-- ☁️ Cloud Computing
-- 💡 Innovative Problem Solving
+Below is your **improved GitHub README**, rewritten using everything we've discussed — your skills, your projects, and the business value behind them.
 
-Seeking opportunities in data science, finance, AI, and software engineering.
+---
 
-## Featured Projects
+# Eshaq Rahmani  
+**Data Science Graduate | MSc in Data Science and Analytics**
 
-### Data Science
-- [Tesla Stock Analysis & Prediction (Dissertation)](https://github.com/eshaq95/Tesla-Stock-Prediction-Analysis): Large comparative study of technical analysis and machine learning (LSTM, SVM)
-- [Credit Risk Scorecard Development](https://github.com/eshaq95/Credit-Risk-Scoring-Project): Developed multiple scorecards using linear and logistic regression on German credit data
-- [Time Series Forecasting for Ambulance Service](https://github.com/eshaq95/Time-Series-Forecasting-Ambulance-Service-Calls): Developed multiple forecasting models in R to optimize crew scheduling
-- [Text Categorization for 20 Newsgroups](https://github.com/eshaq95/Text-Categorization-NLP-Newsgrouping): Multi-class classification using Multinomial Naive Bayes, LSTM, CNN, and BERT models
-- [Car Insurance Prediction Project](https://github.com/eshaq95/Car-Insurance-Prediction-ML): Implemented and compared multiple ML models (XGBoost, Random Forest, KNN) to predict customer interest in car insurance and handled imbalanced data
-- [Python Object Detection (Personal Project)](https://github.com/eshaq95/RunescapeCV-MiningAI): Automated Runescape mining bot using OpenCV and PyAutoGUI for real-time object detection and task automation
+## 🚀 About Me
 
-### Software Engineering
-- [Online Bookstore Website](https://github.com/eshaq95/Online-Book-Store): Java-based full-stack e-commerce platform with SQL database and responsive HTML/CSS frontend
-- [Environmental Education Website for Kids](https://github.com/eshaq95/GarbageSorting-WebGame): Website with interactive JavaScript/HTML5  waste sorting game and educational content for teaching kids about sustainability 
-- [Online Movie Store (Not yet uploaded)](https://github.com/eshaq95/Movie-store-restful-api): Full-stack movie purchasing platform with RESTful API, AJAX for dynamic content, and SQL database
-- [C++ Particle Fire Simulation (Personal Project)](https://github.com/eshaq95/Particle_explosion_Project): Interactive particle system with SDL2 graphics
+I’m a data scientist with a focus on solving real-world problems using machine learning, predictive analytics, and clear data storytelling. With a strong background in engineering, software development, and applied statistics, I’ve worked on projects that help organizations make better decisions in finance, risk, operations, and customer targeting.
 
+🔍 I specialize in:
+- 📊 Data Science & Analytics (forecasting, segmentation, risk modeling)  
+- 🤖 Machine Learning & AI (XGBoost, BERT, LSTM, SVM)  
+- ☁️ Cloud & Big Data Tools (Azure, Hadoop, SQL, Docker)  
+- 💡 Practical Problem Solving (turning data into action)
 
-## Additional Resources
-- [MATLAB Projects](https://github.com/eshaq95/MATLAB-projects): Collection of MATLAB codes for engineering applications, including turbine blade optimization and numerical solutions for PDEs
-- [MOOC Certificates](https://github.com/eshaq95/MOOC-certificates): Repository of completed online course certificates
-- [AI Wealth Builder (Experiment on Cursor)](https://github.com/eshaq95/ai-wealth-builder) is a full-stack financial management platform built with Next.js 13, TypeScript, and FastAPI. It features portfolio analytics, budget management, and transaction analysis with real-time data visualization. This has not been coded by me; it is an automated project using Cursor for learning how to use Cursor. The code is AI-generated.
+I'm currently seeking opportunities where I can use data to drive insight and impact — especially in finance, analytics, or data-driven product teams.
 
-[website]: https://eshaq95.github.io/Portfolio/
-[linkedin]: https://www.linkedin.com/in/eshaq-rahmani-495043197/
-[facebook]: http://www.facebook.com/isak.rahmani
+---
+
+## 📌 Featured Projects (with Business Value)
+
+### 🧠 Data Science
+
+- [**Tesla Stock Analysis & Prediction (Dissertation)**](https://github.com/eshaq95/Tesla-Stock-Prediction-Analysis)  
+  Compared 24,000+ technical trading strategies with ML models (LSTM, SVM) to evaluate performance on Tesla stock. Found ML models (esp. LSTM) offered superior returns in high-volatility periods — relevant for data-driven investors or algorithmic traders.
+
+- [**Credit Risk Scorecard Development**](https://github.com/eshaq95/Credit-Risk-Scoring-Project)  
+  Built scorecards using linear/logistic regression on German credit data. Enabled segmentation of high- vs low-risk applicants, helping banks improve loan decisions and reduce defaults.
+
+- [**Time Series Forecasting for Ambulance Service**](https://github.com/eshaq95/Time-Series-Forecasting-Ambulance-Service-Calls)  
+  Used multiple forecasting models (TBATS, ARIMA, Holt) to predict emergency call volumes for resource planning. Delivered scheduling recommendations based on demand peaks/trends.
+
+- [**Text Categorization for 20 Newsgroups**](https://github.com/eshaq95/Text-Categorization-NLP-Newsgrouping)  
+  Built NLP classification models (Naive Bayes, LSTM, CNN, BERT) to classify news articles. Demonstrated performance of traditional vs deep learning techniques on unstructured text.
+
+- [**Car Insurance Prediction Project**](https://github.com/eshaq95/Car-Insurance-Prediction-ML)  
+  Predicted customer interest in car insurance based on health insurance data. Helped simulate how insurers could improve cross-sell targeting with ML (XGBoost ROC-AUC: 0.775).
+
+- [**Python Object Detection (Game Bot)**](https://github.com/eshaq95/RunescapeCV-MiningAI)  
+  Used OpenCV and PyAutoGUI to automate in-game tasks using real-time object detection — personal project to explore computer vision and automation.
+
+---
+
+### 💻 Software Engineering
+
+- [**Online Bookstore Website**](https://github.com/eshaq95/Online-Book-Store)  
+  Full-stack e-commerce platform built with Java, SQL, HTML/CSS. Includes user management, checkout, and inventory features.
+
+- [**Environmental Education Website for Kids**](https://github.com/eshaq95/GarbageSorting-WebGame)  
+  Built an interactive JavaScript/HTML5 game for kids to learn waste sorting. Combines education with hands-on engagement.
+
+- [**Online Movie Store** (Coming Soon)](https://github.com/eshaq95/Movie-store-restful-api)  
+  RESTful full-stack web app for purchasing movies. Includes dynamic content loading (AJAX), SQL backend, and user account handling.
+
+- [**C++ Particle Fire Simulation**](https://github.com/eshaq95/Particle_explosion_Project)  
+  Built a real-time particle system using SDL2 in C++. Focus on graphics programming and simulation.
+
+---
+
+## 📚 Additional Resources
+
+- [**MATLAB Projects**](https://github.com/eshaq95/MATLAB-projects)  
+  Includes turbine blade optimization, PDE solvers, and other engineering-related scripts.
+
+- [**MOOC Certificates**](https://github.com/eshaq95/MOOC-certificates)  
+  Collection of online certifications in data science, AI, and software.
+
+- [**AI Wealth Builder (Experiment on Cursor)**](https://github.com/eshaq95/ai-wealth-builder)  
+  AI-generated financial dashboard built using Cursor (Next.js + FastAPI). Used as a learning experiment.
+
+---
+
+## 🌐 Connect with Me
+
+- 📄 [Portfolio Website](https://eshaq95.github.io/Portfolio/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/eshaq-rahmani-495043197/)
+- 📘 [Facebook](http://www.facebook.com/isak.rahmani)
