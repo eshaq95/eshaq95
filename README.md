@@ -1,9 +1,3 @@
-Great — this is a strong foundation. Now let's **tighten the messaging, focus on value**, and add a clearer **"who I help / what I solve"** framing to make the profile recruiter-friendly and impact-oriented.
-
-Below is your **improved GitHub README**, rewritten using everything we've discussed — your skills, your projects, and the business value behind them.
-
----
-
 # Eshaq Rahmani  
 **Data Science Graduate | MSc in Data Science and Analytics**
 
