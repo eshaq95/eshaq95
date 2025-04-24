@@ -8,7 +8,7 @@ I’m a data scientist with a focus on solving real-world problems using machine
 🔍 I specialize in:
 - 📊 Data Science & Analytics (forecasting, segmentation, risk modeling)  
 - 🤖 Machine Learning & AI (XGBoost, BERT, LSTM, SVM)  
-- ☁️ Cloud & Big Data Tools (Azure, Hadoop, SQL, Docker)  
+- ☁️ Cloud & Big Data Tools (Hadoop, SQL, Docker)  
 - 💡 Practical Problem Solving (turning data into action)
 
 I'm currently seeking opportunities where I can use data to drive insight and impact — especially in finance, analytics, or data-driven product teams.
