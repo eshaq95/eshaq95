@@ -64,8 +64,7 @@ I'm currently seeking opportunities where I can use data to drive insight and im
   Collection of online certifications in data science, AI, and software.
 
 - [**AI Wealth Builder (Experiment on Cursor)**](https://github.com/eshaq95/ai-wealth-builder)  
-  AI-generated financial dashboard built using Cursor (Next.js + FastAPI). Used as a learning experiment.
-
+Fully AI-generated financial dashboard using Cursor (Next.js + FastAPI). No code was manually written—it was created as a learning experiment in AI-assisted development.
 ---
 
 ## 🌐 Connect with Me
