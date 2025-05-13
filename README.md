@@ -36,7 +36,7 @@ _I’m open to roles in finance, analytics or product teams where data drives th
 
 | Project | Stack | Highlight |
 | ------- | ----- | --------- |
-| **[norsk-skjema-info](https://github.com/eshaq95/norsk-skjema-info)** | React&nbsp;+ Supabase (serverless) | Modern CI/CD demo |
+| **[norsk-skjema-info](https://github.com/eshaq95/norsk-skjema-info)** | Vite · TypeScript · React · shadcn-ui · Tailwind · Supabase · serverless (Vercel) | Live Norwegian form-metadata search app with end-to-end CI/CD |
 | **[Online Bookstore](https://github.com/eshaq95/Online-Book-Store)** | Java · SQL · JSP | Full e-commerce flow |
 | **[Garbage-Sorting Web Game](https://github.com/eshaq95/GarbageSorting-WebGame)** | JS/HTML5 | Ed-tech gamification |
 | **[Online Movie Store (Coming Soon)](https://github.com/eshaq95/Movie-store-restful-api)** | RESTful API · SQL | Dynamic content loading |
