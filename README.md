@@ -58,7 +58,7 @@ _I’m open to roles in finance, analytics or product teams where data drives th
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshaq-rahmani-495043197/)  
 [![GitHub](https://img.shields.io/badge/GitHub-eshaq95-181717?logo=github&logoColor=white)](https://github.com/eshaq95)  
-[![Email](https://img.shields.io/badge/Email-eshaq-rahmani@hotmail.com-red?logo=gmail&logoColor=white)](mailto:eshaq-rahmani@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-eshaq--rahmani@hotmail.com-red?logo=gmail&logoColor=white)](mailto:eshaq-rahmani@hotmail.com)
 
 <!-- Optional: GitHub stats card (safe SVG) -->
 <!-- ![Eshaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshaq95&show_icons=true&hide_title=true) -->
