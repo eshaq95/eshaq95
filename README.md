@@ -25,7 +25,7 @@ _I’m open to roles in finance, analytics or product teams where data drives th
 | **[Tesla Stock Analysis & Prediction](https://github.com/eshaq95/Tesla-Stock-Prediction-Analysis)** | LSTM vs 24 k trading rules | Better returns in volatile markets |
 | **[Credit-Risk Scorecards](https://github.com/eshaq95/Credit-Risk-Scoring-Project)** | Logistic scorecard build | ↓ defaults, smarter APR tiers |
 | **[Ambulance Call Forecasts](https://github.com/eshaq95/Time-Series-Forecasting-Ambulance-Service-Calls)** | TBATS / ARIMA mix | Optimal shift sizing |
-| **[20-Newsgroups NLP](https://github.com/eshaq95/Text-Categorization-NLP-Newsgrouping)** | BERT vs Naïve Bayes | +7 pp F1 lift |
+| **[20-Newsgroups NLP](https://github.com/eshaq95/Text-Categorization-NLP-Newsgrouping)** | BERT vs Naïve Bayes & LSTM | +1 pp macro-F1 vs NB ( +6 pp vs LSTM) |
 | **[Car-Insurance Cross-Sell](https://github.com/eshaq95/Car-Insurance-Prediction-ML)** | XGBoost targeting | ROC-AUC 0.775 |
 | **[RunescapeCV Game Bot](https://github.com/eshaq95/RunescapeCV-MiningAI)** | OpenCV object detection | Real-time automation demo |
 
