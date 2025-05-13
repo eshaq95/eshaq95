@@ -41,6 +41,9 @@ I'm currently seeking opportunities where I can use data to drive insight and im
 
 ### 💻 Software Engineering
 
+- [**Norwegian Form Info Web App (norsk-skjema-info)**](https://github.com/eshaq95/norsk-skjema-info)  
+  Serverless React + TypeScript application that aggregates metadata for Norwegian public forms. Built with Vite, shadcn-ui & Tailwind, backed by Supabase and serverless functions, and auto-deployed to Vercel—demonstrates modern front-end tooling and CI/CD.
+
 - [**Online Bookstore Website**](https://github.com/eshaq95/Online-Book-Store)  
   Full-stack e-commerce platform built with Java, SQL, HTML/CSS. Includes user management, checkout, and inventory features.
 
