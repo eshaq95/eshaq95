@@ -1,76 +1,45 @@
+<!-- README.md -->
+
 # Eshaq Rahmani  
-**Data Science Graduate | MSc in Data Science and Analytics**
+**Data Science Graduate · MSc Data Science & Analytics**
 
 ## 🚀 About Me
+I turn data into decisions ­— from credit-risk models to time-series staffing forecasts. Blending engineering, statistics and cloud tooling, I help teams move from **insight** to **impact**.
 
-I’m a data scientist with a focus on solving real-world problems using machine learning, predictive analytics, and clear data storytelling. With a strong background in engineering, software development, and applied statistics, I’ve worked on projects that help organizations make better decisions in finance, risk, operations, and customer targeting.
+### 🔧 Core skills
+- **Data & Analytics** · forecasting, segmentation, risk modelling  
+- **ML & AI** · XGBoost, LSTM, BERT, SVM  
+- **Cloud / Big-Data** · SQL, Hadoop, Docker  
+- **Action-able Storytelling** · clear visuals → decisions
 
-🔍 I specialize in:
-- 📊 Data Science & Analytics (forecasting, segmentation, risk modeling)  
-- 🤖 Machine Learning & AI (XGBoost, BERT, LSTM, SVM)  
-- ☁️ Cloud & Big Data Tools (Hadoop, SQL, Docker)  
-- 💡 Practical Problem Solving (turning data into action)
-
-I'm currently seeking opportunities where I can use data to drive insight and impact — especially in finance, analytics, or data-driven product teams.
-
----
-
-## 📌 Featured Projects (with Business Value)
-
-### 🧠 Data Science
-
-- [**Tesla Stock Analysis & Prediction (Dissertation)**](https://github.com/eshaq95/Tesla-Stock-Prediction-Analysis)  
-  Compared 24,000+ technical trading strategies with ML models (LSTM, SVM) to evaluate performance on Tesla stock. Found ML models (esp. LSTM) offered superior returns in high-volatility periods — relevant for data-driven investors or algorithmic traders.
-
-- [**Credit Risk Scorecard Development**](https://github.com/eshaq95/Credit-Risk-Scoring-Project)  
-  Built scorecards using linear/logistic regression on German credit data. Enabled segmentation of high- vs low-risk applicants, helping banks improve loan decisions and reduce defaults.
-
-- [**Time Series Forecasting for Ambulance Service**](https://github.com/eshaq95/Time-Series-Forecasting-Ambulance-Service-Calls)  
-  Used multiple forecasting models (TBATS, ARIMA, Holt) to predict emergency call volumes for resource planning. Delivered scheduling recommendations based on demand peaks/trends.
-
-- [**Text Categorization for 20 Newsgroups**](https://github.com/eshaq95/Text-Categorization-NLP-Newsgrouping)  
-  Built NLP classification models (Naive Bayes, LSTM, CNN, BERT) to classify news articles. Demonstrated performance of traditional vs deep learning techniques on unstructured text.
-
-- [**Car Insurance Prediction Project**](https://github.com/eshaq95/Car-Insurance-Prediction-ML)  
-  Predicted customer interest in car insurance based on health insurance data. Helped simulate how insurers could improve cross-sell targeting with ML (XGBoost ROC-AUC: 0.775).
-
-- [**Python Object Detection (Game Bot)**](https://github.com/eshaq95/RunescapeCV-MiningAI)  
-  Used OpenCV and PyAutoGUI to automate in-game tasks using real-time object detection — personal project to explore computer vision and automation.
+_I’m open to roles in finance, analytics or product teams where data drives the roadmap._
 
 ---
 
-### 💻 Software Engineering
+## 📌 Featured Projects
+<details>
+<summary><strong>Click to view six highlighted repos</strong></summary>
 
-- [**Norwegian Form Info Web App (norsk-skjema-info)**](https://github.com/eshaq95/norsk-skjema-info)  
-  Serverless React + TypeScript application that aggregates metadata for Norwegian public forms. Built with Vite, shadcn-ui & Tailwind, backed by Supabase and serverless functions, and auto-deployed to Vercel—demonstrates modern front-end tooling and CI/CD.
+| Project | What it proves | Impact |
+| ------- | -------------- | ------ |
+| **[Tesla Stock Analysis](…/Tesla-Stock-Prediction-Analysis)** | LSTM vs 24 k trading rules | +α returns in volatile periods |
+| **[Credit-Risk Scorecards](…/Credit-Risk-Scoring-Project)** | Logistic scorecard build | ↓ defaults, better APR tiers |
+| **[Ambulance Call Forecasts](…/Time-Series-Forecasting-Ambulance-Service-Calls)** | TBATS / ARIMA | Optimal shift sizing |
+| **[20-Newsgroups NLP](…/Text-Categorization-NLP-Newsgrouping)** | BERT vs Naïve Bayes | 7-point F1 lift |
+| **[Car-Insurance Cross-Sell](…/Car-Insurance-Prediction-ML)** | XGBoost targeting | ROC-AUC 0.775 |
+| **[norsk-skjema-info](…/norsk-skjema-info)** | Serverless React + Supabase | Modern CI/CD demo |
 
-- [**Online Bookstore Website**](https://github.com/eshaq95/Online-Book-Store)  
-  Full-stack e-commerce platform built with Java, SQL, HTML/CSS. Includes user management, checkout, and inventory features.
-
-- [**Environmental Education Website for Kids**](https://github.com/eshaq95/GarbageSorting-WebGame)  
-  Built an interactive JavaScript/HTML5 game for kids to learn waste sorting. Combines education with hands-on engagement.
-
-- [**Online Movie Store** (Coming Soon)](https://github.com/eshaq95/Movie-store-restful-api)  
-  RESTful full-stack web app for purchasing movies. Includes dynamic content loading (AJAX), SQL backend, and user account handling.
-
-- [**C++ Particle Fire Simulation**](https://github.com/eshaq95/Particle_explosion_Project)  
-  Built a real-time particle system using SDL2 in C++. Focus on graphics programming and simulation.
+</details>
 
 ---
 
-## 📚 Additional Resources
+## 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshaq-rahmani-495043197/) 
+[![Website](https://img.shields.io/badge/Portfolio-grey?logo=githubpages&logoColor=white)](https://eshaq95.github.io) 
+[![Mail](https://img.shields.io/badge/email-me-red?logo=gmail&logoColor=white)](mailto:eshaqrahmani@gmail.com)
 
-- [**MATLAB Projects**](https://github.com/eshaq95/MATLAB-projects)  
-  Includes turbine blade optimization, PDE solvers, and other engineering-related scripts.
+<!-- GitHub profile cards (optional) -->
+<!--
+![Eshaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshaq95&show_icons=true&hide_title=true)
+-->
 
-- [**MOOC Certificates**](https://github.com/eshaq95/MOOC-certificates)  
-  Collection of online certifications in data science, AI, and software.
-
-- [**AI Wealth Builder (Experiment on Cursor)**](https://github.com/eshaq95/ai-wealth-builder)  
-Fully AI-generated financial dashboard using Cursor (Next.js + FastAPI). No code was manually written—it was created as a learning experiment in AI-assisted development.
----
-
-## 🌐 Connect with Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/eshaq-rahmani-495043197/)
-- 📘 [Facebook](http://www.facebook.com/isak.rahmani)
