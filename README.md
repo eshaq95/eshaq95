@@ -1,45 +1,64 @@
-<!-- README.md -->
-
 # Eshaq Rahmani  
 **Data Science Graduate · MSc Data Science & Analytics**
 
 ## 🚀 About Me
-I turn data into decisions ­— from credit-risk models to time-series staffing forecasts. Blending engineering, statistics and cloud tooling, I help teams move from **insight** to **impact**.
+I turn data into decisions – from credit-risk scorecards to time-series staffing forecasts.  
+Blending engineering, statistics and cloud tooling, I help teams move from **insight** to **impact**.
 
 ### 🔧 Core skills
 - **Data & Analytics** · forecasting, segmentation, risk modelling  
 - **ML & AI** · XGBoost, LSTM, BERT, SVM  
 - **Cloud / Big-Data** · SQL, Hadoop, Docker  
-- **Action-able Storytelling** · clear visuals → decisions
+- **Action-able Storytelling** · clear visuals → better decisions  
 
 _I’m open to roles in finance, analytics or product teams where data drives the roadmap._
 
 ---
 
 ## 📌 Featured Projects
-<details>
-<summary><strong>Click to view six highlighted repos</strong></summary>
 
-| Project | What it proves | Impact |
-| ------- | -------------- | ------ |
-| **[Tesla Stock Analysis](…/Tesla-Stock-Prediction-Analysis)** | LSTM vs 24 k trading rules | +α returns in volatile periods |
-| **[Credit-Risk Scorecards](…/Credit-Risk-Scoring-Project)** | Logistic scorecard build | ↓ defaults, better APR tiers |
-| **[Ambulance Call Forecasts](…/Time-Series-Forecasting-Ambulance-Service-Calls)** | TBATS / ARIMA | Optimal shift sizing |
-| **[20-Newsgroups NLP](…/Text-Categorization-NLP-Newsgrouping)** | BERT vs Naïve Bayes | 7-point F1 lift |
-| **[Car-Insurance Cross-Sell](…/Car-Insurance-Prediction-ML)** | XGBoost targeting | ROC-AUC 0.775 |
-| **[norsk-skjema-info](…/norsk-skjema-info)** | Serverless React + Supabase | Modern CI/CD demo |
+<details>
+<summary><strong>🧠 Data Science (6)</strong></summary>
+
+| Project | What it proves | Business value |
+| ------- | -------------- | -------------- |
+| **[Tesla Stock Analysis & Prediction](https://github.com/eshaq95/Tesla-Stock-Prediction-Analysis)** | LSTM vs 24 k trading rules | Better returns in volatile markets |
+| **[Credit-Risk Scorecards](https://github.com/eshaq95/Credit-Risk-Scoring-Project)** | Logistic scorecard build | ↓ defaults, smarter APR tiers |
+| **[Ambulance Call Forecasts](https://github.com/eshaq95/Time-Series-Forecasting-Ambulance-Service-Calls)** | TBATS / ARIMA mix | Optimal shift sizing |
+| **[20-Newsgroups NLP](https://github.com/eshaq95/Text-Categorization-NLP-Newsgrouping)** | BERT vs Naïve Bayes | +7 pp F1 lift |
+| **[Car-Insurance Cross-Sell](https://github.com/eshaq95/Car-Insurance-Prediction-ML)** | XGBoost targeting | ROC-AUC 0.775 |
+| **[RunescapeCV Game Bot](https://github.com/eshaq95/RunescapeCV-MiningAI)** | OpenCV object detection | Real-time automation demo |
+
+</details>
+
+<details>
+<summary><strong>💻 Software Engineering (5)</strong></summary>
+
+| Project | Stack | Highlight |
+| ------- | ----- | --------- |
+| **[norsk-skjema-info](https://github.com/eshaq95/norsk-skjema-info)** | React&nbsp;+ Supabase (serverless) | Modern CI/CD demo |
+| **[Online Bookstore](https://github.com/eshaq95/Online-Book-Store)** | Java · SQL · JSP | Full e-commerce flow |
+| **[Garbage-Sorting Web Game](https://github.com/eshaq95/GarbageSorting-WebGame)** | JS/HTML5 | Ed-tech gamification |
+| **[Online Movie Store (Coming Soon)](https://github.com/eshaq95/Movie-store-restful-api)** | RESTful API · SQL | Dynamic content loading |
+| **[C++ Particle Fire Simulation](https://github.com/eshaq95/Particle_explosion_Project)** | C++ · SDL2 | Real-time graphics |
+
+</details>
+
+<details>
+<summary><strong>📚 Additional Resources (3)</strong></summary>
+
+- **[MATLAB Projects](https://github.com/eshaq95/MATLAB-projects)** – turbine blade optimisation, PDE solvers, more.  
+- **[MOOC Certificates](https://github.com/eshaq95/MOOC-certificates)** – curated list of AI / DS courses.  
+- **[AI Wealth Builder](https://github.com/eshaq95/ai-wealth-builder)** – fully AI-generated dashboard (Next.js + FastAPI).
 
 </details>
 
 ---
 
 ## 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshaq-rahmani-495043197/) 
-[![Website](https://img.shields.io/badge/Portfolio-grey?logo=githubpages&logoColor=white)](https://eshaq95.github.io) 
-[![Mail](https://img.shields.io/badge/email-me-red?logo=gmail&logoColor=white)](mailto:eshaqrahmani@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshaq-rahmani-495043197/)  
+[![GitHub](https://img.shields.io/badge/GitHub-eshaq95-181717?logo=github&logoColor=white)](https://github.com/eshaq95)  
+[![Email](https://img.shields.io/badge/Email-eshaqrahmani@gmail.com-red?logo=gmail&logoColor=white)](mailto:eshaqrahmani@gmail.com)
 
-<!-- GitHub profile cards (optional) -->
-<!--
-![Eshaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshaq95&show_icons=true&hide_title=true)
--->
-
+<!-- Optional: GitHub stats card (safe SVG) -->
+<!-- ![Eshaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshaq95&show_icons=true&hide_title=true) -->
