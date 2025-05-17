@@ -45,6 +45,14 @@ _I’m open to roles in finance, analytics or product teams where data drives th
 </details>
 
 <details>
+<summary><strong>📄 Research Papers</strong></summary>
+
+- **[Research Papers](https://github.com/eshaq95/research-papers)** – academic and independent work on AI, risk, and analytics.
+  
+</details>
+
+
+<details>
 <summary><strong>📚 Additional Resources (3)</strong></summary>
 
 - **[MATLAB Projects](https://github.com/eshaq95/MATLAB-projects)** – turbine blade optimisation, PDE solvers, more.  
