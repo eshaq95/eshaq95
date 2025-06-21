@@ -23,6 +23,8 @@ _I’m open to roles in finance, analytics or product teams where data drives th
 | Project | Stack | Value |
 |--------|-------|--------|
 | **[LabInventoryBridge](https://github.com/eshaq95/lab-bridge-inventory-flow)** | React · Supabase (PostgreSQL) · Tableau · TypeScript · Tailwind · shadcn/ui | End-to-end digital warehouse dashboard for laboratory inventory tracking, including barcode-based transactions, low-stock alerts, and Tableau analytics |
+| **[Commercial Analytics Dashboard](https://github.com/eshaq95/commercial-analytics-dashboard)** | Tableau · Supabase (PostgreSQL) · Python · React (WIP embed) | KPI & marketing performance dashboards for a subscription wellness brand. Features ROI, MRR, churn & campaign insights with synthetic data in a star schema |
+
 
 </details>
 
