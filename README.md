@@ -22,7 +22,7 @@ _I’m open to roles in finance, analytics or product teams where data drives th
 
 | Project | Stack | Value |
 |--------|-------|--------|
-| **[LabInventoryBridge](https://github.com/eshaq95/LabInventoryBridge)** | React · Supabase (PostgreSQL) · Tableau · TypeScript · Tailwind · shadcn/ui | End-to-end digital warehouse dashboard for laboratory inventory tracking, including barcode-based transactions, low-stock alerts, and Tableau analytics |
+| **[LabInventoryBridge](https://github.com/eshaq95/lab-bridge-inventory-flow)** | React · Supabase (PostgreSQL) · Tableau · TypeScript · Tailwind · shadcn/ui | End-to-end digital warehouse dashboard for laboratory inventory tracking, including barcode-based transactions, low-stock alerts, and Tableau analytics |
 
 </details>
 
