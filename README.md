@@ -2,15 +2,13 @@
 **Data Science Graduate · MSc Data Science & Analytics**
 
 ## 🚀 About Me
-Recent Graduate with data science and software engineering skills, passionate about robotics.
+Recent Graduate with Data Science and Software Engineering skills, passionate about Robotics.
 
 ### 🔧 Core skills
 - **Data & Analytics** · forecasting, segmentation, risk modelling  
 - **ML & AI** · XGBoost, LSTM, BERT, SVM  
 - **Cloud / Big-Data** · SQL, Hadoop, Docker  
 - **Action-able Storytelling** · clear visuals → better decisions  
-
-_I’m open to roles in finance, analytics or product teams where data drives the roadmap._
 
 ---
 
