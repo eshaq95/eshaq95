@@ -1,7 +1,6 @@
 # Eshaq Rahmani  
 **Data Science Graduate · MSc Data Science & Analytics**
 
-## 🚀 About Me
 Recent Graduate with Data Science and Software Engineering skills, passionate about Robotics.
 
 ### 🔧 Core skills
