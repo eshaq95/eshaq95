@@ -2,8 +2,7 @@
 **Data Science Graduate · MSc Data Science & Analytics**
 
 ## 🚀 About Me
-I turn data into decisions – from credit-risk scorecards to time-series staffing forecasts.  
-Blending engineering, statistics and cloud tooling, I help teams move from **insight** to **impact**.
+Recent Graduate with data science and software engineering skills, passionate about robotics.
 
 ### 🔧 Core skills
 - **Data & Analytics** · forecasting, segmentation, risk modelling  
