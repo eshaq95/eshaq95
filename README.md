@@ -1,80 +1,52 @@
-# Eshaq Rahmani  
-**Data Science Graduate · MSc Data Science & Analytics**
+# Eshaq Rahmani
 
-Recent Graduate with Data Science and Software Engineering skills, passionate about Robotics.
+**MSc Robotics student · University of Bristol**
 
-### 🔧 Core skills
-- **Data & Analytics** · forecasting, segmentation, risk modelling  
-- **ML & AI** · XGBoost, LSTM, BERT, SVM  
-- **Cloud / Big-Data** · SQL, Hadoop, Docker  
-- **Action-able Storytelling** · clear visuals → better decisions  
+Mechanical engineering graduate with software and data science experience, now focused on robotics: control, machine vision and machine learning.
 
----
+- 🎓 **Now:** MSc Robotics, University of Bristol (Sep 2026 – Sep 2027) — control, machine vision, autonomous systems; learning C++
+- 💼 **Recent:** Trainee, Software & Systems Development, Labora AS, Bodø (Aug 2025 – Jul 2026) — built and deployed a laboratory inventory management system (Next.js, TypeScript, PostgreSQL) with automated testing (Jest, Playwright), monitoring (Sentry) and CI/CD (Docker, GitHub Actions)
+- 📚 **Also:** MSc Data Science & Analytics, Cardiff University (Merit) · Higher Diploma in Science in Agile Software Design, TU Shannon (First Class Honours) · BEng Mechanical Engineering, University of Edinburgh
 
-## 📌 Featured Projects
-
-<details>
-<summary><strong>📊 Dashboards & Analytics (2)</strong></summary>
-
-| Project | Stack | Value |
-|--------|-------|--------|
-| **[LabInventoryBridge](https://github.com/eshaq95/lab-bridge-inventory-flow)** | React · Supabase (PostgreSQL) · Tableau · TypeScript · Tailwind · shadcn/ui | End-to-end digital warehouse dashboard for laboratory inventory tracking, including barcode-based transactions, low-stock alerts, and Tableau analytics |
-| **[Commercial Analytics Dashboard](https://github.com/eshaq95/commercial-analytics-dashboard)** | Tableau · Supabase (PostgreSQL) · Python · React (WIP embed) | KPI & marketing performance dashboards for a subscription wellness brand. Features ROI, MRR, churn & campaign insights with synthetic data in a star schema |
-
-
-</details>
-
-
-<details>
-<summary><strong>🧠 Data Science (6)</strong></summary>
-
-| Project | What it proves | Business value |
-| ------- | -------------- | -------------- |
-| **[Tesla Stock Analysis & Prediction](https://github.com/eshaq95/Tesla-Stock-Prediction-Analysis)** | LSTM vs 24 k trading rules | Better returns in volatile markets |
-| **[Credit-Risk Scorecards](https://github.com/eshaq95/Credit-Risk-Scoring-Project)** | Logistic scorecard build | ↓ defaults, smarter APR tiers |
-| **[Ambulance Call Forecasts](https://github.com/eshaq95/Time-Series-Forecasting-Ambulance-Service-Calls)** | TBATS / ARIMA mix | Optimal shift sizing |
-| **[20-Newsgroups NLP](https://github.com/eshaq95/Text-Categorization-NLP-Newsgrouping)** | BERT vs Naïve Bayes & LSTM | +1 pp macro-F1 vs NB ( +6 pp vs LSTM) |
-| **[Car-Insurance Cross-Sell](https://github.com/eshaq95/Car-Insurance-Prediction-ML)** | XGBoost targeting | ROC-AUC 0.775 |
-| **[RunescapeCV Game Bot](https://github.com/eshaq95/RunescapeCV-MiningAI)** | OpenCV object detection | Real-time automation demo |
-
-</details>
-
-<details>
-<summary><strong>💻 Software Engineering (5)</strong></summary>
-
-| Project | Stack | Highlight |
-| ------- | ----- | --------- |
-| **[norsk-skjema-info](https://github.com/eshaq95/norsk-skjema-info)** | Vite · TypeScript · React · shadcn-ui · Tailwind · Supabase · serverless (Vercel) | Live Norwegian form-metadata search app with end-to-end CI/CD |
-| **[Online Bookstore](https://github.com/eshaq95/Online-Book-Store)** | Java · SQL · JSP | Full e-commerce flow |
-| **[Garbage-Sorting Web Game](https://github.com/eshaq95/GarbageSorting-WebGame)** | JS/HTML5 | Ed-tech gamification |
-| **[Online Movie Store (Coming Soon)](https://github.com/eshaq95/Movie-store-restful-api)** | RESTful API · SQL | Dynamic content loading |
-| **[C++ Particle Fire Simulation](https://github.com/eshaq95/Particle_explosion_Project)** | C++ · SDL2 | Real-time graphics |
-
-</details>
-
-<details>
-<summary><strong>📄 Research Papers</strong></summary>
-
-- **[Research Papers](https://github.com/eshaq95/research-papers)** – academic and independent work on AI, risk, and analytics.
-  
-</details>
-
-
-<details>
-<summary><strong>📚 Additional Resources (3)</strong></summary>
-
-- **[MATLAB Projects](https://github.com/eshaq95/MATLAB-projects)** – turbine blade optimisation, PDE solvers, more.  
-- **[MOOC Certificates](https://github.com/eshaq95/MOOC-certificates)** – curated list of AI / DS courses.  
-- **[AI Wealth Builder](https://github.com/eshaq95/ai-wealth-builder)** – fully AI-generated dashboard (Next.js + FastAPI).
-
-</details>
+**Tools:** Python · MATLAB/Simulink · TypeScript · SQL · R · Java · PyTorch · TensorFlow · Git · Docker
 
 ---
 
-## 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshaq-rahmani-495043197/)  
-[![GitHub](https://img.shields.io/badge/GitHub-eshaq95-181717?logo=github&logoColor=white)](https://github.com/eshaq95)  
-[![Email](https://img.shields.io/badge/Email-eshaq--rahmani@hotmail.com-red?logo=gmail&logoColor=white)](mailto:eshaq-rahmani@hotmail.com)
+## Featured projects
 
-<!-- Optional: GitHub stats card (safe SVG) -->
-<!-- ![Eshaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshaq95&show_icons=true&hide_title=true) -->
+| Project | What it shows | Stack |
+| --- | --- | --- |
+| **[MATLAB engineering projects](https://github.com/eshaq95/MATLAB-projects)** | Turbine blade optimisation validated by 3D printing and lab testing; FTCS finite-difference solver for the heat equation, compared with the analytical solution | MATLAB |
+| **[Dissertation: technical analysis vs machine learning](https://github.com/eshaq95/Dissertation-ML-vs-Technical-Analysis-)** | 24,048 technical trading rules compared with LSTM and SVM models on 14 years of Tesla data, using White's Reality Check to control for data-snooping bias | Python |
+| **[Ambulance call forecasting](https://github.com/eshaq95/Time-Series-Forecasting-Ambulance-Service-Calls)** | Naive, SES, Holt, ARIMA and TBATS models compared on 3,742 calls over six years; staff-scheduling recommendations | R |
+| **[LabInventoryBridge](https://github.com/eshaq95/lab-bridge-inventory-flow)** | Laboratory inventory app with barcode tracking, low-stock alerts, transaction history and Tableau analytics | React · TypeScript · Supabase |
+
+<details>
+<summary><strong>More machine learning and data science</strong></summary>
+
+| Project | What it shows | Stack |
+| --- | --- | --- |
+| **[20 Newsgroups text classification](https://github.com/eshaq95/Text-Categorization-NLP-Newsgrouping)** | Naive Bayes, LSTM, CNN and BERT compared; fine-tuned BERT performed best | Python · TensorFlow |
+| **[Credit-risk scorecards](https://github.com/eshaq95/Credit-Risk-Scoring-Project)** | Segmented scorecards with Weight of Evidence / Information Value feature selection | Python |
+| **[Car-insurance cross-sell](https://github.com/eshaq95/Car-Insurance-Prediction-ML)** | XGBoost, random forest and KNN on imbalanced data (best ROC-AUC 0.775) | Python |
+| **[Commercial analytics dashboard](https://github.com/eshaq95/commercial-analytics-dashboard)** | KPI and campaign dashboards on a star-schema PostgreSQL model with synthetic data | Tableau · SQL · Python |
+
+</details>
+
+<details>
+<summary><strong>More software engineering</strong></summary>
+
+| Project | What it shows | Stack |
+| --- | --- | --- |
+| **[norsk-skjema-info](https://github.com/eshaq95/norsk-skjema-info)** | Norwegian address form with real-time validation against the Geonorge address APIs | React · TypeScript · Supabase |
+| **[Online bookstore](https://github.com/eshaq95/Online-Book-Store)** | E-commerce app built in an agile team (Git, Jira) | Java · SQL · JSP |
+| **[Garbage-sorting web game](https://github.com/eshaq95/GarbageSorting-WebGame)** | Educational game teaching children to sort waste, built as a team project | JavaScript · HTML · CSS |
+
+</details>
+
+📄 **[Research papers](https://github.com/eshaq95/research-papers)** — my MSc dissertation and a paper on NoSQL databases.
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eshaq%20Rahmani-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshaq-rahmani-495043197/)
+[![Email](https://img.shields.io/badge/Email-eshaq--rahmani@hotmail.com-D14836?logo=microsoftoutlook&logoColor=white)](mailto:eshaq-rahmani@hotmail.com)
