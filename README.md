@@ -1,25 +1,40 @@
 # Eshaq Rahmani
 
-MSc Robotics @ University of Bristol — control, machine vision and machine learning.
-Previously: software trainee at Labora AS · MSc Data Science & Analytics (Cardiff) · BEng Mechanical Engineering (Edinburgh)
+🤖 **MSc Robotics @ University of Bristol** — control, machine vision and machine learning  
+💼 Previously: Software & Systems Development Trainee at Labora AS  
+🎓 MSc Data Science & Analytics (Cardiff) · HDip Agile Software Design (TUS, First Class Honours) · BEng Mechanical Engineering (Edinburgh)
 
-### Projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eshaq%20Rahmani-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshaq-rahmani-495043197/)
+[![Email](https://img.shields.io/badge/Email-eshaq--rahmani@hotmail.com-D14836?logo=microsoftoutlook&logoColor=white)](mailto:eshaq-rahmani@hotmail.com)
 
-**Engineering**
-- [MATLAB engineering projects](https://github.com/eshaq95/MATLAB-projects) — turbine blade optimisation and an FTCS heat-equation solver · MATLAB
+---
 
-**Machine learning & data science**
-- [Dissertation: technical analysis vs ML](https://github.com/eshaq95/Dissertation-ML-vs-Technical-Analysis-) — 24,048 trading rules vs LSTM and SVM · Python
-- [Ambulance call forecasting](https://github.com/eshaq95/Time-Series-Forecasting-Ambulance-Service-Calls) — five forecasting models compared on 3,742 calls · R
-- [20 Newsgroups text classification](https://github.com/eshaq95/Text-Categorization-NLP-Newsgrouping) — Naive Bayes, LSTM, CNN and BERT compared · Python
-- [Credit-risk scorecards](https://github.com/eshaq95/Credit-Risk-Scoring-Project) — segmented scorecards with WoE/IV feature selection · Python
-- [Car-insurance cross-sell](https://github.com/eshaq95/Car-Insurance-Prediction-ML) — XGBoost model, ROC-AUC 0.775 · Python
-- [Commercial analytics dashboard](https://github.com/eshaq95/commercial-analytics-dashboard) — Tableau KPI and campaign dashboards · Tableau, SQL
+### ⚙️ Engineering
 
-**Software engineering**
-- [LabInventoryBridge](https://github.com/eshaq95/lab-bridge-inventory-flow) — lab inventory app with barcode tracking and stock alerts · React, TypeScript
-- [norsk-skjema-info](https://github.com/eshaq95/norsk-skjema-info) — address form validated against Norway's Geonorge APIs · React, TypeScript
-- [Online bookstore](https://github.com/eshaq95/Online-Book-Store) — e-commerce app built in an agile team · Java, SQL
-- [Garbage-sorting web game](https://github.com/eshaq95/GarbageSorting-WebGame) — educational game, team project · JavaScript
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [MATLAB engineering projects](https://github.com/eshaq95/MATLAB-projects) | Turbine blade optimisation and an FTCS heat-equation solver | MATLAB |
 
-[Research papers](https://github.com/eshaq95/research-papers) · [LinkedIn](https://www.linkedin.com/in/eshaq-rahmani-495043197/) · [Email](mailto:eshaq-rahmani@hotmail.com)
+### 🧠 Machine learning & data science
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Dissertation: technical analysis vs ML](https://github.com/eshaq95/Dissertation-ML-vs-Technical-Analysis-) | 24,048 trading rules vs LSTM and SVM models | Python |
+| [Ambulance call forecasting](https://github.com/eshaq95/Time-Series-Forecasting-Ambulance-Service-Calls) | Five forecasting models compared on 3,742 calls | R |
+| [20 Newsgroups text classification](https://github.com/eshaq95/Text-Categorization-NLP-Newsgrouping) | Naive Bayes, LSTM, CNN and BERT compared | Python |
+| [Credit-risk scorecards](https://github.com/eshaq95/Credit-Risk-Scoring-Project) | Segmented scorecards with WoE/IV feature selection | Python |
+| [Car-insurance cross-sell](https://github.com/eshaq95/Car-Insurance-Prediction-ML) | XGBoost model, ROC-AUC 0.775 | Python |
+| [Commercial analytics dashboard](https://github.com/eshaq95/commercial-analytics-dashboard) | Tableau KPI and campaign dashboards | Tableau · SQL |
+
+### 💻 Software engineering
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [LabInventoryBridge](https://github.com/eshaq95/lab-bridge-inventory-flow) | Lab inventory app with barcode tracking and stock alerts | React · TypeScript |
+| [norsk-skjema-info](https://github.com/eshaq95/norsk-skjema-info) | Address form validated against Norway's Geonorge APIs | React · TypeScript |
+| [Online bookstore](https://github.com/eshaq95/Online-Book-Store) | E-commerce app built in an agile team | Java · SQL |
+| [Garbage-sorting web game](https://github.com/eshaq95/GarbageSorting-WebGame) | Educational game, team project | JavaScript |
+
+### 📄 Research
+
+- [Research papers](https://github.com/eshaq95/research-papers) — MSc dissertation and a paper on NoSQL databases
