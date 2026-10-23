@@ -5,7 +5,11 @@
 🎓 MSc Data Science & Analytics (Cardiff) · HDip Agile Software Design (TUS, First Class Honours) · BEng Mechanical Engineering (Edinburgh)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eshaq%20Rahmani-24292F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshaq-rahmani-495043197/)
-[![Email](https://img.shields.io/badge/Email-eshaq--rahmani@hotmail.com-24292F?style=flat-square&logo=maildotru&logoColor=white)](mailto:eshaq-rahmani@hotmail.com)
+
+📧 Email (hover to copy):
+```
+eshaq-rahmani@hotmail.com
+```
 
 ---
 
