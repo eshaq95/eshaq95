@@ -4,8 +4,8 @@
 💼 Previously: Software & Systems Development Trainee at Labora AS  
 🎓 MSc Data Science & Analytics (Cardiff) · HDip Agile Software Design (TUS, First Class Honours) · BEng Mechanical Engineering (Edinburgh)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eshaq%20Rahmani-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshaq-rahmani-495043197/)
-[![Email](https://img.shields.io/badge/Email-eshaq--rahmani@hotmail.com-D14836?logo=microsoftoutlook&logoColor=white)](mailto:eshaq-rahmani@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eshaq%20Rahmani-24292F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eshaq-rahmani-495043197/)
+[![Email](https://img.shields.io/badge/Email-eshaq--rahmani@hotmail.com-24292F?style=flat-square&logo=maildotru&logoColor=white)](mailto:eshaq-rahmani@hotmail.com)
 
 ---
 
