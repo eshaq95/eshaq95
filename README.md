@@ -13,13 +13,19 @@ eshaq-rahmani@hotmail.com
 
 ---
 
-### ⚙️ Engineering
+## Projects
+
+<details>
+<summary><b>⚙️ Engineering</b></summary>
 
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [MATLAB engineering projects](https://github.com/eshaq95/MATLAB-projects) | Turbine blade optimisation and an FTCS heat-equation solver | MATLAB |
 
-### 🧠 Machine learning & data science
+</details>
+
+<details>
+<summary><b>🧠 Machine learning & data science</b></summary>
 
 | Project | What it is | Stack |
 | --- | --- | --- |
@@ -30,7 +36,10 @@ eshaq-rahmani@hotmail.com
 | [Car-insurance cross-sell](https://github.com/eshaq95/Car-Insurance-Prediction-ML) | XGBoost model, ROC-AUC 0.775 | Python |
 | [Commercial analytics dashboard](https://github.com/eshaq95/commercial-analytics-dashboard) | Tableau KPI and campaign dashboards | Tableau · SQL |
 
-### 💻 Software engineering
+</details>
+
+<details>
+<summary><b>💻 Software engineering</b></summary>
 
 | Project | What it is | Stack |
 | --- | --- | --- |
@@ -39,6 +48,11 @@ eshaq-rahmani@hotmail.com
 | [Online bookstore](https://github.com/eshaq95/Online-Book-Store) | E-commerce app built in an agile team | Java · SQL |
 | [Garbage-sorting web game](https://github.com/eshaq95/GarbageSorting-WebGame) | Educational game, team project | JavaScript |
 
-### 📄 Research
+</details>
+
+<details>
+<summary><b>📄 Research</b></summary>
 
 - [Research papers](https://github.com/eshaq95/research-papers) — MSc dissertation and a paper on NoSQL databases
+
+</details>
